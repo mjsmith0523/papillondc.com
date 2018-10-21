@@ -1,0 +1,60 @@
+#page-services .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead1a.jpg)!important;
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-our-office .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead2a.jpg)!important;
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-root-canal .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead7a.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#page-implant-dentistry .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead4a.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#page-invisalign .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead3a.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#page-restorations .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead5a.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#page-cosmetics .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead6a.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+@media (min-width: 768px) {
+#page-services .sbContainer .inner-page-title-wrapper, #page-our-office .sbContainer .inner-page-title-wrapper, #page-cosmetics .sbContainer .inner-page-title-wrapper, #page-restorations .sbContainer .inner-page-title-wrapper, #page-invisalign .sbContainer .inner-page-title-wrapper, #page-implant-dentistry .sbContainer .inner-page-title-wrapper, #page-root-canal .sbContainer .inner-page-title-wrapper {
+height:400px;
+}
+}
+
+@media (max-width: 767px) {
+#page-services .sbContainer .inner-page-title-wrapper, #page-our-office .sbContainer .inner-page-title-wrapper, #page-cosmetics .sbContainer .inner-page-title-wrapper, #page-restorations .sbContainer .inner-page-title-wrapper, #page-invisalign .sbContainer .inner-page-title-wrapper, #page-implant-dentistry .sbContainer .inner-page-title-wrapper, #page-root-canal .sbContainer .inner-page-title-wrapper {
+height:220px;
+}
+}
