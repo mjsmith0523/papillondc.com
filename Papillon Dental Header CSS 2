@@ -1,0 +1,22 @@
+
+
+
+@media (min-width: 768px) {
+#page-payment .sbContainer .inner-page-title-wrapper,#page-papillon-dental .sbContainer .inner-page-title-wrapper,#page-education .sbContainer .inner-page-title-wrapper,#page-you-are-special .sbContainer .inner-page-title-wrapper,#page-services .sbContainer .inner-page-title-wrapper,#page-our-office .sbContainer .inner-page-title-wrapper,#page-cosmetics .sbContainer .inner-page-title-wrapper,#page-restorations .sbContainer .inner-page-title-wrapper,#page-invisalign .sbContainer .inner-page-title-wrapper,#page-implant-dentistry .sbContainer .inner-page-title-wrapper,#page-root-canal .sbContainer .inner-page-title-wrapper {
+height:500px;
+}
+}
+
+@media (max-width: 767px) {
+#page-payment .sbContainer .inner-page-title-wrapper,#page-papillon-dental .sbContainer .inner-page-title-wrapper,#page-education .sbContainer .inner-page-title-wrapper,#page-you-are-special .sbContainer .inner-page-title-wrapper,#page-services .sbContainer .inner-page-title-wrapper,#page-our-office .sbContainer .inner-page-title-wrapper,#page-cosmetics .sbContainer .inner-page-title-wrapper,#page-restorations .sbContainer .inner-page-title-wrapper,#page-invisalign .sbContainer .inner-page-title-wrapper,#page-implant-dentistry .sbContainer .inner-page-title-wrapper,#page-root-canal .sbContainer .inner-page-title-wrapper {
+height:220px;
+}
+}
+
+@media (min-width: 768px) {
+#page-payment .sbContainer .inner-page-title #comp-titleText,#page-papillon-dental .sbContainer .inner-page-title #comp-titleText,#page-education .sbContainer .inner-page-title #comp-titleText,#page-you-are-special .sbContainer .inner-page-title #comp-titleText,#page-services .sbContainer .inner-page-title #comp-titleText,#page-our-office .sbContainer .inner-page-title #comp-titleText,#page-cosmetics .sbContainer .inner-page-title #comp-titleText,#page-restorations .sbContainer .inner-page-title #comp-titleText,#page-invisalign .sbContainer .inner-page-title #comp-titleText,#page-implant-dentistry .sbContainer .inner-page-title #comp-titleText,#page-root-canal .sbContainer .inner-page-title #comp-titleText {
+height:400px;
+text-align:right;
+padding-top:380px;
+}
+}
