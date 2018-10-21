@@ -1,0 +1,113 @@
+#page-payment .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead13a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-papillon-dental .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead12a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-education .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead11a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-you-are-special .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead8a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-services .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead10a.jpg)!important;
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-our-office .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead2a.jpg)!important;
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-root-canal .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead7a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-implant-dentistry .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead4a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-invisalign .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead3a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-restorations .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead5a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-cosmetics .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead6a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+
+#page-contact .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead16a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-appointment .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead15a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-reviews .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead15a.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#page-meet-dr-papillon .sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead-dr.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+.sbContainer .inner-page-title-wrapper {
+background-image:url(/images/Headers/pagehead-default1.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
